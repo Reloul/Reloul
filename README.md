@@ -1,4 +1,4 @@
-<img src="space.png">
+
 
 <h1 align="center"> Hello everybody, I'm Valentin Serres and here is my github profil 👋 </h1>
 
