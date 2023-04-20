@@ -1,4 +1,6 @@
-<h1 align="center"> Hello everybody, I'm Valentin Serres and here is my github profil 👋 <h1/>
+<img src="./space.png">
+
+<h1 align="center"> Hello everybody, I'm Valentin Serres and here is my github profil 👋 </h1>
 
 <h2> I'm a CY-Tech (ex-EISTI) student in computer science.</h2>
 <ul>
