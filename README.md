@@ -6,7 +6,7 @@
 <ul>
 <li>🏳️ I'm a french student</li>
 <li>💻 I'm particulary interested by Artificial Intelligence, Cybersecurity and Web Development</li>
-<li> 📱 You can reach me : by mail (serresvale@gmail.com) or by phone (+33 7 80 51 07 24)</li>
+<li> 📱 You can reach me : by mail (serresvale@gmail.com)</li>
 <li> 😍 Things I love : music 🎵, space 🔭 and video games 🎮</li>
 </ul>
 
